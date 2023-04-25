@@ -1,0 +1,19 @@
+[
+null,
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[],"faceIndex":0,"faceName":"","traits":[{"code":11,"dataId":2,"value":1}],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":6,"characterName":"","classId":2,"equips":[],"faceIndex":4,"faceName":"WONSZ","traits":[],"initialLevel":3,"maxLevel":20,"name":"Aquaris","nickname":"","note":"","profile":"Aquaris"},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":3,"equips":[],"faceIndex":0,"faceName":"TWARZKI","traits":[],"initialLevel":8,"maxLevel":20,"name":"Harkin","nickname":"","note":"","profile":"Syn czerwieni"},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":4,"equips":[],"faceIndex":3,"faceName":"WONSZ","traits":[],"initialLevel":5,"maxLevel":20,"name":"Arran","nickname":"","note":"","profile":"Zamieszkuje wysokie szczyty"},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":5,"equips":[],"faceIndex":0,"faceName":"WONSZ","traits":[],"initialLevel":1,"maxLevel":20,"name":"Torren","nickname":"","note":"","profile":"Zamieszkuje dalekie wzgórza"},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"","classId":6,"equips":[],"faceIndex":2,"faceName":"TWARZKI","traits":[],"initialLevel":1,"maxLevel":20,"name":"Terremoto","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"","classId":7,"equips":[],"faceIndex":2,"faceName":"WONSZ","traits":[],"initialLevel":1,"maxLevel":20,"name":"Sneak","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"","classId":8,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"WONSZ","traits":[],"initialLevel":3,"maxLevel":20,"name":"Smutny pop","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"","classId":9,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"APOKLEMONY","traits":[],"initialLevel":8,"maxLevel":20,"name":"Pani ognista","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":10,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"WONSZ","traits":[],"initialLevel":3,"maxLevel":20,"name":"Jasny rybol","nickname":"","note":"","profile":""},
+{"id":11,"battlerName":"","characterIndex":0,"characterName":"","classId":11,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"WONSZ","traits":[],"initialLevel":3,"maxLevel":20,"name":"Ciemny rybol","nickname":"","note":"","profile":""},
+{"id":12,"battlerName":"","characterIndex":0,"characterName":"","classId":12,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"TWARZKI","traits":[],"initialLevel":6,"maxLevel":20,"name":"Mieszaniec","nickname":"","note":"","profile":""},
+{"id":13,"battlerName":"","characterIndex":0,"characterName":"","classId":13,"equips":[0,0,0,0,0],"faceIndex":7,"faceName":"TWARZKI","traits":[],"initialLevel":5,"maxLevel":20,"name":"Bird","nickname":"","note":"","profile":""},
+{"id":14,"battlerName":"","characterIndex":0,"characterName":"","classId":14,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"TWARZKI","traits":[],"initialLevel":8,"maxLevel":20,"name":"Jaszczur","nickname":"","note":"","profile":""},
+{"id":15,"battlerName":"","characterIndex":0,"characterName":"","classId":15,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"TWARZKI","traits":[],"initialLevel":5,"maxLevel":99,"name":"Smok","nickname":"","note":"","profile":""},
+{"id":16,"battlerName":"","characterIndex":0,"characterName":"","classId":16,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"TWARZKI","traits":[],"initialLevel":5,"maxLevel":99,"name":"Władca chmur","nickname":"","note":"","profile":""}
+]

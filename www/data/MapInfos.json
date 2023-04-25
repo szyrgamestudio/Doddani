@@ -1,0 +1,17 @@
+[
+null,
+{"id":1,"expanded":true,"name":"ŚWIAT","order":2,"parentId":0,"scrollX":1404,"scrollY":790.2857142857142},
+{"id":2,"expanded":true,"name":"LAS","order":10,"parentId":8,"scrollX":819,"scrollY":461},
+{"id":3,"expanded":true,"name":"Sklep ogólny","order":3,"parentId":1,"scrollX":540.6666666666666,"scrollY":307.3333333333333},
+{"id":4,"expanded":false,"name":"Klinika","order":6,"parentId":1,"scrollX":540.6666666666666,"scrollY":316.6666666666667},
+{"id":5,"expanded":false,"name":"Chatka","order":7,"parentId":1,"scrollX":832,"scrollY":640},
+{"id":6,"expanded":false,"name":"Miasto","order":4,"parentId":3,"scrollX":819,"scrollY":448.5},
+{"id":7,"expanded":false,"name":"Skelp broni","order":5,"parentId":3,"scrollX":832,"scrollY":640},
+{"id":8,"expanded":true,"name":"Przeciwnicy","order":9,"parentId":12,"scrollX":1404,"scrollY":790.2857142857142},
+{"id":9,"expanded":false,"name":"góra","order":13,"parentId":8,"scrollX":981.5999999999999,"scrollY":547.8},
+{"id":10,"expanded":false,"name":"Las Tutorial","order":11,"parentId":2,"scrollX":1404,"scrollY":790.2857142857142},
+{"id":11,"expanded":false,"name":"woda","order":12,"parentId":8,"scrollX":728,"scrollY":409.77777777777777},
+{"id":12,"expanded":true,"name":"Arena","order":8,"parentId":1,"scrollX":819,"scrollY":461},
+{"id":13,"expanded":false,"name":"WULKEJNO","order":14,"parentId":8,"scrollX":595.6363636363636,"scrollY":335.27272727272725},
+{"id":14,"expanded":false,"name":"MENU TYTUŁOWE GRY","order":1,"parentId":0,"scrollX":819,"scrollY":461}
+]
